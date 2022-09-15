@@ -2,6 +2,8 @@
 
 **Ya está la conexión, si le dan en el logo de colab (en el file de la carpeta, les va a abrir el notebook.)**
 
+Lo pueden guardar en la opción guardar en github, y a la ubicación le añaden **Notebooks/**
+
 **Leer lo que está en negrita acá**
 
 **Goal of the Competition**

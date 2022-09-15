@@ -1,6 +1,6 @@
 **Las descripciones de los files están en la carpeta Files!.**
 
-**Ya está la conexión, si le dan en el logo de colab (en el file de la carpeta, les va a abrir el notebook.)
+**Ya está la conexión, si le dan en el logo de colab (en el file de la carpeta, les va a abrir el notebook.)**
 
 **Leer lo que está en negrita acá**
 

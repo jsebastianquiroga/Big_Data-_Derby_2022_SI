@@ -1,3 +1,5 @@
+Si ponemos el github bonito, nos sirve de proyecto y se lo podemos mostrar al profe.
+
 **Las descripciones de los files están en la carpeta Files!.**
 
 **Ya está la conexión, si le dan en el logo de colab (en la carpeta Notebooks está, en el logo de Colab les abre en su máquina virtual.)**

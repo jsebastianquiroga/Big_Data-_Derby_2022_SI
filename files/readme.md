@@ -1,10 +1,12 @@
 Dataset Description
 File descriptions
-nyra_start_table.csv - horse/jockey race data
-nyra_race_table.csv - racetrack race data
-nyra_tracking_table.csv - tracking data
-nyra_2019_complete.csv - combined table of three above files
+- nyra_start_table.csv - horse/jockey race data
+- nyra_race_table.csv - racetrack race data
+- nyra_tracking_table.csv - tracking data
+- nyra_2019_complete.csv - combined table of three above files
+
 Columns
+
 nyra_start_table.csv
 
 - track_id - 3 character id for the track the race took place at. AQU -Aqueduct, BEL - Belmont, SAR - Saratoga.
@@ -38,20 +40,20 @@ nyra_tracking_table.csv
 - longitude - The longitude of the horse in the race passed as a float.
 - nyra_2019_complete.csv - This file is the combined 3 files into one table. The keys to join them trakus with race - track_id, race_date, race_number. To join trakus - with start - track_id, race_date, race_number, program_number.
 
-track_id - char(3)
-race_date - date
-race_number - char(3)
-program_number - char(3)
-trakus_index - int
-latitude - float
-longitude - float
-distance_id - int
-course_type - char(1)
-track_condition - char(3)
-run_up_distance - int
-race_type - char(5)
-post_time - char(5)
-weight_carried - int
-jockey - char(50)
-odds - int
-position_at_finish - An integer of the horse's finishing position. (added to the dataset 9/8/22)
+- track_id - char(3)
+- race_date - date
+- race_number - char(3)
+- program_number - char(3)
+- trakus_index - int
+- latitude - float
+- longitude - float
+- distance_id - int
+- course_type - char(1)
+- track_condition - char(3)
+- run_up_distance - int
+- race_type - char(5)
+- post_time - char(5)
+- weight_carried - int
+- jockey - char(50)
+- odds - int
+- position_at_finish - An integer of the horse's finishing position. (added to the dataset 9/8/22)

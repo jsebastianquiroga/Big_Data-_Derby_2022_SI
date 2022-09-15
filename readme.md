@@ -1,6 +1,6 @@
 **Las descripciones de los files están en la carpeta Files!.**
 
-**Ya está la conexión, si le dan en el logo de colab (en el file de la carpeta, les va a abrir el notebook.)**
+**Ya está la conexión, si le dan en el logo de colab (en la carpeta Notebooks está el notebook, en el logo de Colab les abre.)**
 
 Lo pueden guardar en la opción guardar en github, y a la ubicación le añaden **Notebooks/** (La ventaja de ésto es que uno puede ver las versiones anteriores del archivo y compararlas! Sin que aparezca tipo 'Version1', 'Version2' etc, simplemente uno puede ver las versiones anteriores del mismo notebook)
 

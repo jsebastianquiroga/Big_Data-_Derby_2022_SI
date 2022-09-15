@@ -1,4 +1,4 @@
-Si ponemos el github bonito, nos sirve de proyecto y se lo podemos mostrar al profe.
+Si ponemos el github bonito, nos sirve de proyecto personal y se lo podemos mostrar al profe.
 
 **Las descripciones de los files están en la carpeta Files!.**
 

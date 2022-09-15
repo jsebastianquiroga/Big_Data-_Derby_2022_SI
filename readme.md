@@ -2,7 +2,7 @@
 
 **Ya está la conexión, si le dan en el logo de colab (en el file de la carpeta, les va a abrir el notebook.)**
 
-Lo pueden guardar en la opción guardar en github, y a la ubicación le añaden **Notebooks/**
+Lo pueden guardar en la opción guardar en github, y a la ubicación le añaden **Notebooks/** (La ventaja de ésto es que uno puede ver las versiones anteriores del archivo y compararlas! Sin que aparezca tipo 'Version1', 'Version2' etc, simplemente uno puede ver las versiones anteriores del mismo notebook)
 
 **Leer lo que está en negrita acá**
 

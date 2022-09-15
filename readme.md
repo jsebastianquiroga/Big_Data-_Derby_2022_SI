@@ -1,5 +1,6 @@
 **Las descripciones de los files están en la carpeta Files!.**
 
+**Leer lo que está en negrita acá**
 
 **Goal of the Competition**
 

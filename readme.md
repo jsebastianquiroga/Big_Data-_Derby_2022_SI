@@ -1,27 +1,42 @@
-Si ponemos el github bonito, nos sirve de proyecto personal y se lo podemos mostrar al profe.
+# <img style="float: center; padding-right: 10px;" src="https://www.pikpng.com/pngl/b/467-4670553_universidad-javeriana-esslingen-am-neckar-clipart.png" width="100" height="150">
 
-**Las descripciones de los files están en la carpeta Files!.**
 
-**Ya está la conexión, si le dan en el logo de colab (en la carpeta Notebooks está, en el logo de Colab les abre en su máquina virtual.)**
 
-Lo pueden guardar en la opción guardar en github, y a la ubicación le añaden **Notebooks/** (La ventaja de ésto es que uno puede ver las versiones anteriores del archivo y compararlas! Sin que aparezca tipo 'Version1', 'Version2' etc, simplemente uno puede ver las versiones anteriores del mismo notebook)
 
-**Leer lo que está en negrita acá**
+**Integrantes:**</p>
+**Joshep Andersson Blanco Reyes**</p>
+**Leonardo García Diaz**</p>
+**Juan Sebastián Quiroga Bernal**</p>
 
-**Goal of the Competition**
+# <img style="float: left; padding-right: 10px;" src="https://images7.alphacoders.com/671/671791.jpg"  height="300">
 
-The goal of this competition is to analyze horse racing tactics, drafting strategies, and path efficiency. You will develop a model using never-before-released coordinate data along with basic race information.
+**Este colab puede ser ejecutado por cualquier usuario sin necesidad de cargar los archivos al entorno, debido a que la conexión está configurada para acceder a los archivos desde la nube**.
 
-Your work will help racing horse owners, trainers, and veterinarians better understand how equine performance and welfare fit together. With better data analysis, equine welfare could significantly improve.
 
-Context
+<h1> <strong>Big Data Derby 2022.</strong></h1> 
 
-Injury prevention is a critical component in modern athletics. Sports that involve animals, such as horse racing, are no different than human sport. Typically, efficiency in movement correlates to both improvements in **performance and injury prevention.**
+Los Derbies como se conocen, es un tipo de carreras de caballos, inventada alrededor de 1780 en Inglaterra, cuyos participantes son los jinetes y sus caballos, los cuales deben ser mayores a 3 años.
 
-A **wealth of data** is now collected, including measures for heart rate, EKG, longitudinal movement, dorsal/ventral movement, medial/lateral deviation, total power and total landing vibration. Your data science skills and analysis are needed to decipher what makes the most positive impact.
 
-In this competition, **you will create a model to interpret one aspect of this new data.** You’ll be among the first to access X/Y coordinate mapping of horses during races. Using the data, you might analyze jockey decision making, compare race surfaces, or measure the relative importance of drafting. With considerable data, contestants can flex their creativity problem solving skills.
 
-The New York Racing Association (NYRA) and the New York Thoroughbred Horsemen's Association (NYTHA) conduct world class thoroughbred racing at Aqueduct Racetrack, Belmont Park and Saratoga Race Course.
+En esta ocasión se tomará como fuente de información una competencia de Kaggle , nombrada Big Data Derby 2022 (https://www.kaggle.com/competitions/big-data-derby-2022/overview), en donde se relacionan observaciones de 2000 carreras entre 2019-01 al 2020-01, de tres de sus principales circuitos AQU -Aqueduct, BEL - Belmont, SAR – Saratoga. 
 
-With your help, NYRA and NYTHA will better understand their vast data set, which could lead to new ways of racing and training in a highly traditional industry. With improved use of horse tracking data, you could help improve equine welfare, performance and rider decision making.
+
+El objetivo de este estudio es analizar las carreras de caballos, con el fin de desarrollar diferentes modelos, que permitan predecir si un caballo terminara entre los 3 primeros para intentar predecir las apuestas que aumentaran el retorno de inversión.
+
+
+
+Su trabajo ayudará a los propietarios, entrenadores y veterinarios de caballos de carreras a comprender mejor cómo encajan el rendimiento y el bienestar de los equinos. Con un mejor análisis de datos. 
+
+El presente notebook, estará dividido en divido en las siguientes partes:
+<ol>
+<li> Analisis exploratorio. </li>
+<li> Modelo ingenuo: Sistema experto. </li>
+<li> Modelo ingenuo: Sistema Rede Neuronal I. </li>
+<li> Modelo ingenuo: Sistema Rede Neuronal II. </li>
+<li> Conclusiones: Modelos ingenuos. </li>
+<li> Algoritmo genetico: Selección de variables. </li>
+<li> Algoritmo genetico: Selección de hiper-parametos con los features seleccionados. </li>
+<li> Red Neuronal entrenada con algoritmo geneticos.</li>
+<li> Conclusiones.</li> 
+</ol>

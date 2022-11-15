@@ -5,7 +5,7 @@ File descriptions
 - nyra_tracking_table.csv - tracking data
 - nyra_2019_complete.csv - combined table of three above files
 
-Columns
+Columns Description
 
 nyra_start_table.csv
 
